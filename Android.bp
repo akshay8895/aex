@@ -388,7 +388,7 @@ toolchain_library {
 }
 
 kernel_headers {
-    name: "device_kernel_headers",
+    name: "generated_kernel_headers",
     vendor: true,
 }
 
